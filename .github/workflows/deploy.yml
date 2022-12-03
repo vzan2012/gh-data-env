@@ -9,7 +9,7 @@ env:
 jobs:
   test:
     env:
-      MONGODB_CLUSTER_ADDRESS: taskappcluster.58fdc.mongodb.net/test
+      MONGODB_CLUSTER_ADDRESS: taskappcluster.58fdc.mongodb.net
       MONGODB_USERNAME: vzan2012
       MONGODB_PASSWORD: mongoDB@!@#123
       PORT: 8080
